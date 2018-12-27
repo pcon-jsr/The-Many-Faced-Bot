@@ -36,4 +36,7 @@ Folks going through deeplearning must have come across the google's fascinating 
 You can contact me regarding your visualisation and techniques to solve any of the unsolved mentioned problems and for contribution to this project. You can make pull requests if you want to contribute. *If you have any other feature that can be included then feel free to contact me or issue feature request*.
 ## Mentor
 * [Suraj Kumar](https://github.com/shazz10) - (Email- sksuraj2136@gmail.com)
+
 **If you liked the project and found it useful then you can star it**
+
+**If you want to know more about the architecture of the model email me for it**

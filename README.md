@@ -1,9 +1,13 @@
 # The-Many-Faced-Bot
 It is a BOT that can recognise anyone whose Face is present in the database. GOT fans will get it!! ;p
 
+**Isn't it pretty cool to have a BOT recognise your face and unlock your laptop with a welcome sound? Sounds like Jarvis!!**
+
+**If you are interested in building such a BOT, Welcome to Braavos.. Together let's build *The-Many-Faced-Bot***
+
 ## Introduction
 Folks going through deeplearning must have come across the google's fascinating research paper *FaceNet* and it's *Triplet Loss* which is the best possible face-recognition algorithm right now. *To understand the concept of Triplet Loss quickly go and checkout this [blog](https://towardsdatascience.com/siamese-network-triplet-loss-b4ca82c1aec8)*.
-**In this project, I have trained a model on the basis of the paper and used that model to make this BOT.**
+**In this project, I have trained a model on the basis of the paper and used that model to make this BOT and a working prototype is ready**
 ## Workflow of the prototype
 1. To register new user, The-Many-Faced-Bot detects the face->crops the face->Stores the face of the user.
 2. To recognise a user, The-Many-Faced-Bot detects the face->crops the face->checks the similarity of this new face with the other faces in the database and gives the result obtained.  
@@ -32,3 +36,4 @@ Folks going through deeplearning must have come across the google's fascinating 
 You can contact me regarding your visualisation and techniques to solve any of the unsolved mentioned problems and for contribution to this project. You can make pull requests if you want to contribute. *If you have any other feature that can be included then feel free to contact me or issue feature request*.
 ## Mentor
 * [Suraj Kumar](https://github.com/shazz10) - (Email- sksuraj2136@gmail.com)
+**If you liked the project and found it useful then you can star it**
